@@ -5,4 +5,4 @@
 
 	What is the advantage of indexing?
 
-	
+	What is the database normalization?
