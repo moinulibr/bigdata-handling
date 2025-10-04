@@ -2,3 +2,7 @@
 	start writting
 	--------------
 	what is indexing?
+
+	What is the advantage of indexing?
+
+	
